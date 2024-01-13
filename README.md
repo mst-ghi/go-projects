@@ -22,7 +22,7 @@ Welcome to the Golang Projects Repository! This repository serves as a hub for v
 
 ## Contact
 
-For any questions or inquiries, feel free to contact us at [mostafagholamidev@gmail.com].
+For any questions or inquiries, feel free to contact me at [mostafagholamidev@gmail.com].
 
 ## Author
 
