@@ -6,7 +6,7 @@ Welcome to the Golang Projects Repository! This repository serves as a hub for v
 
 ## Projects
 
-### [Video Conf Project](https://github.com/mst-ghi/video-conf-backend)
+### [Simple Conf Project](https://github.com/mst-ghi/simple-conf-backend)
 
 -   **Description:** Simple Communities project with Golang and Gin framework.
 -   **Technical Features:**
@@ -18,6 +18,7 @@ Welcome to the Golang Projects Repository! This repository serves as a hub for v
     -   Middlewares
     -   SocketIO
     -   Chat & Video Call
+    -   Scheduler
 
 ### [Gin Blog Project](https://github.com/mst-ghi/gin-blog-project)
 

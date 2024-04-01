@@ -1,6 +1,6 @@
 [submodule "gin-blog-project"]
 	path = gin-blog-project
 	url = https://github.com/mst-ghi/gin-blog-project.git
-[submodule "video-conf-backend"]
-	path = video-conf-backend
-	url = https://github.com/mst-ghi/video-conf-backend
+[submodule "simple-conf-backend"]
+	path = simple-conf-backend
+	url = https://github.com/mst-ghi/simple-conf-backend.git
