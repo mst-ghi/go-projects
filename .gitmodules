@@ -1,6 +1,9 @@
 [submodule "gin-blog-project"]
 	path = gin-blog-project
 	url = https://github.com/mst-ghi/gin-blog-project.git
+[submodule "golang-backend-boilerplate"]
+	path = golang-backend-boilerplate
+	url = https://github.com/mst-ghi/golang-backend-boilerplate.git
 [submodule "simple-conf-backend"]
 	path = simple-conf-backend
 	url = https://github.com/mst-ghi/simple-conf-backend.git

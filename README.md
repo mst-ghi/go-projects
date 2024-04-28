@@ -20,6 +20,19 @@ Welcome to the Golang Projects Repository! This repository serves as a hub for v
     -   Chat & Video Call
     -   Scheduler
 
+### [Golang backend boilerplate](https://github.com/mst-ghi/golang-backend-boilerplate)
+
+-   **Description:** This boilerplate provides a solid foundation for building backend applications in Go, equipped with essential features to kickstart your development process.
+-   **Technical Features:**
+    -   Gin Framework
+    -   Gorm Orm
+    -   Swagger API Documentation
+    -   Custom JWT Authentication
+    -   Custom commands
+    -   Middlewares
+    -   SocketIO Integration
+    -   Scheduler
+
 ### [Gin Blog Project](https://github.com/mst-ghi/gin-blog-project)
 
 -   **Description:** Simple blog project with Golang and Gin framework.
